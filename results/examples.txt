@@ -1,0 +1,184 @@
+Qualitative Generation Example generated text with translations for Appendix
+
+
+
+
+Greedy：
+
+Round 1
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在美国上映。2005年10月22日，该片在第11届香港国际电影节上获得最佳影片奖。2006年1月1日，该片在第12届香港国际电影节上获得最佳影片奖。2006年1月
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. On 22 October 2005, the film won Best Film at the 11th Hong Kong International Film Festival. On 1 January 2006, the film won Best Film at the 12th Hong Kong International Film Festival. In January 2006...
+
+Round 2
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月1日在美国上映。该片于2005年1月1日在美国上映。该片于2005年1月1日在美国上映。该片于2005年1月1日在美国上映。该
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was released in the United States on 1 January 2005. The film was released in the United States on 1 January 2005. The film was released in the United States on 1 January 2005. The film was released in the United States on 1 January 2005. The film...
+
+Round 3
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film...
+
+Round 4
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film...
+
+Round 5
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film...
+
+
+Temperature sampling：
+
+Round 1
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了闭幕演出。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名编剧李杰的处女作品《功夫》改编而来的，电影从早期设想开始，到后期的制作，是其主要素材来源
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a closing performance at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the debut work *Kung Fu* by the famous screenwriter Li Jie. From its early conception to later production, the film used this as its main source material.
+
+Round 2
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了闭幕演出。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名编剧李杰的处女作品《功夫》改编而来的，电影根据李杰所著小说改编，故事中讲述了“功夫学校”的
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a closing performance at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the debut work *Kung Fu* by the famous screenwriter Li Jie. The film was adapted from Li Jie’s novel, and the story tells of the “Kung Fu School”...
+
+Round 3
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了闭幕演出。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名编剧李杰的处女作品《功夫》改编而来的，电影根据李杰所著小说改编，故事中讲述了“功夫学校”的
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a closing performance at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the debut work *Kung Fu* by the famous screenwriter Li Jie. The film was adapted from Li Jie’s novel, and the story tells of the “Kung Fu School”...
+
+Round 4
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了闭幕演出。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名编剧李杰的处女作品《功夫》改编而来的，电影根据李杰所著小说改编，故事中讲述了“功夫学校”的
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a closing performance at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the debut work *Kung Fu* by the famous screenwriter Li Jie. The film was adapted from Li Jie’s novel, and the story tells of the “Kung Fu School”...
+
+Round 5
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了闭幕演出。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名编剧李杰的处女作品《功夫》改编而来的，电影根据李杰所著小说改编，故事中讲述了“功夫学校”的
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a closing performance at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the debut work *Kung Fu* by the famous screenwriter Li Jie. The film was adapted from Li Jie’s novel, and the story tells of the “Kung Fu School”...
+
+
+Top-p sampling：
+
+Round 1
+Title: 功夫 (2004年电影)
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了为期7天的首映礼，这也是“功夫”第一次在美国被大众熟知。在北美上映后，该片在2005年4月24日在好莱坞华纳兄弟的《纽约太阳报》上，以“电影史上最伟大的功夫片之一”为
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a seven-day premiere at the Pixar Center in New York City on 22 April 2005. This was also the first time that “Kung Fu” became widely known in the United States. After its North American release, on 24 April 2005, the film was described by Warner Bros. Hollywood in the *New York Sun* as “one of the greatest kung fu films in film history”...
+
+Round 2
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了首映式。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名导演李小龙的传奇电影《功夫》改编。在1963年上映后，电影很快风靡全球，并在亚洲票房排名
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a premiere at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the legendary film *Kung Fu* by the famous director Bruce Lee. After its release in 1963, the film quickly became popular worldwide and ranked at the Asian box office...
+
+Round 3
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了首映式。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名导演李小龙的传奇电影《功夫》改编。在1963年上映后，电影很快风靡全球，并在亚洲票房排名
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a premiere at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the legendary film *Kung Fu* by the famous director Bruce Lee. After its release in 1963, the film quickly became popular worldwide and ranked at the Asian box office...
+
+Round 4
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举办了首映式。2007年，功夫在亚洲票房排名第六，全球票房排名第八。
+《功夫》是根据著名导演李小龙的传奇电影《功夫》改编。在1961年上映后，电影很快风靡全球，并在亚洲票房排名
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a premiere at the Pixar Center in New York City on 22 April 2005. In 2007, *Kung Fu* ranked sixth at the Asian box office and eighth at the global box office. *Kung Fu* was adapted from the legendary film *Kung Fu* by the famous director Bruce Lee. After its release in 1961, the film quickly became popular worldwide and ranked at the Asian box office...
+
+Round 5
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在纽约市皮克斯中心举行首映式。2007年8月23日，该片在美国获得第18届奥斯卡金像奖最佳外语片，这是香港回归10周年时获得的第1个奖项。该片于2007年10月27
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and held a premiere at the Pixar Center in New York City on 22 April 2005. On 23 August 2007, the film won the 18th Academy Award for Best Foreign Language Film in the United States. This was the first award won during the 10th anniversary of Hong Kong’s return. The film was released on 27 October 2007...
+
+
+DBS
+---
+Round 1
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在北美上映，于2005年10月30日在美国上映。2005年11月20日，该片在美国上映。2005年12月20日，该片在美国上映。2006年3月1日，该片
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in North America on 22 April 2005, and released in the United States on 30 October 2005. On 20 November 2005, the film was released in the United States. On 20 December 2005, the film was released in the United States. On 1 March 2006, the film...
+
+Round 2
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日在美国上映。该片于2005年5月22日在美国上映。该片于2005年5月22日在美国上映。该片于2005年5月22日在美国上映。该片于2005年5月22日在
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and was released in the United States on 22 April 2005. The film was released in the United States on 22 May 2005. The film was released in the United States on 22 May 2005. The film was released in the United States on 22 May 2005. The film was released in the United States on 22 May 2005...
+
+Round 3
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日，在美国上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日，在美国上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005, was released in the United States. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005, was released in the United States. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005...
+
+Round 4
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005, was released in mainland China and Hong Kong. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005, was released in mainland China and Hong Kong. The film was first screened in the United States at the Sundance Film Festival in January 2005, and...
+
+Round 5
+
+Original Chinese output:
+《功夫》于2004年多伦多国际电影节首映，接下来于2004年12月，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于2005年4月22日，在中国内地、香港上映。该片第一次于美国放映是在2005年1月的日舞影展，并于
+
+English translation:
+*Kung Fu* premiered at the 2004 Toronto International Film Festival, and was then released in mainland China and Hong Kong in December 2004. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005, was released in mainland China and Hong Kong. The film was first screened in the United States at the Sundance Film Festival in January 2005, and on 22 April 2005, was released in mainland China and Hong Kong. The film was first screened in the United States at the Sundance Film Festival in January 2005, and...
+
